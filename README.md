@@ -10,11 +10,10 @@
 1. **Clone the repository.**
 2. Run `npm install`.
 3. Have Nest CLI installed.
-4. **Launch the database with `docker-compose up -d`.**
-5. **Clone the file _.env.template_ and rename the copy to __.env__.**
-6. **Fill in the environment variables defined in the __.env__ file.**
-7. Execute the app using the command `npm run start:dev`.
-8. **Rebuild the database at [http://localhost:3000/api/v2/seed](http://localhost:3000/api/v2/seed).**
+4. **Clone the file _.env.template_ and rename the copy to __.env__.**
+5. **Fill in the environment variables defined in the __.env__ file.**
+6. Execute the app using the command `npm run start:dev`.
+7. **Rebuild the database at [http://localhost:3000/api/v2/seed](http://localhost:3000/api/v2/seed).**
 
 ## Tech Stack
 * MongoDB
