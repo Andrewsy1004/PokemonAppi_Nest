@@ -4,12 +4,13 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Welcome to the Pokémon API Replica! 🚀 This project is a TypeScript starter repository built with the [Nest](https://github.com/nestjs/nest) framework, aiming to replicate the functionalities of the original Pokémon API.
+
 
 # Run in Development
 1. **Clone the repository.**
     ```bash
-    $ git clone https://github.com/tu-usuario/tu-repositorio.git
+    $ git clone https://github.com/Andrewsy1004/PokemonAppi_Nest.git
     ```
 
 2. Run `npm install` 📦.
